@@ -65,6 +65,8 @@ const Canvas = (props) => {
     contextRef.current.stroke();
   };
 
+
+
   return (
     <>
       <canvas
